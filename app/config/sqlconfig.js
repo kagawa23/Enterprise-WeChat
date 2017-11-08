@@ -1,9 +1,9 @@
 'use strict'
 var config ={
 	user:'sa',
-	password:'admin@reaki.cn',
-	server:'192.168.2.118',
-	database:'JG_Sys',
+	password:'',
+	server:'',
+	database:'',
 	option:{
 		encrypt:true
 	},
